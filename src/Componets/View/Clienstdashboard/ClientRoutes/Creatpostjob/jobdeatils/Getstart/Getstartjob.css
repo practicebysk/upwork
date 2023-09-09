@@ -1,0 +1,12 @@
+.box-hover-without-class{
+    border: 1px solid  rgba(0, 0, 0, 0.1);
+}
+.box-hover-class{
+    border: 3px solid #108a00;
+}
+.box-hover-class1{
+    transition:all 0.1s ;
+}
+.box-hover-class1:hover{
+    border: 3px solid #108a00;
+}
